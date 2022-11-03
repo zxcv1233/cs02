@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxray:indexshuangye
+FROM xyouxiu6/koyebvxrayv2:latest
